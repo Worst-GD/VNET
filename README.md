@@ -47,14 +47,14 @@ The network maintains infrastructure and node honesty programmatically without c
 
 ```text
 ├── VNET
-│   |__ whitepaper.txt       # Full theoretical protocol specification.
-|    |__ README.md               # Repository orientation matrix.
-|     |__about.txt           # Ideology and about the product.
+│   |__ whitepaper.md       # full theoretical protocol specification.
+|    |__ README.md               # repository orientation matrix.
+|     |__about.md           # about the ideology.
 ```
 
 ## 🤝 Peer Review & Contributions
 
-This specification is open-source and intended for exhaustive cryptographic and architectural critique. If you are an infrastructure engineer, cryptographer, or protocol researcher, please review `whitepaper.txt` and open an issue or pull request to address edge cases in the Layer 2 hardware execution loops.
+This specification is open-source and intended for exhaustive cryptographic and architectural critique. If you are an infrastructure engineer, cryptographer, or protocol researcher, please review `whitepaper.md` and open an issue or pull request to address edge cases in the Layer 2 hardware execution loops.
 
 ---
 *Built for absolute user sovereignty.*
