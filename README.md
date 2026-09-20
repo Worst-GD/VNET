@@ -54,7 +54,7 @@ The network maintains infrastructure and node honesty programmatically without c
 
 ## 🤝 Peer Review & Contributions
 
-This specification is open-source and intended for exhaustive cryptographic and architectural critique. If you are an infrastructure engineer, cryptographer, or protocol researcher, please review `docs/whitepaper.txt` and open an issue or pull request to address edge cases in the Layer 2 hardware execution loops.
+This specification is open-source and intended for exhaustive cryptographic and architectural critique. If you are an infrastructure engineer, cryptographer, or protocol researcher, please review `whitepaper.txt` and open an issue or pull request to address edge cases in the Layer 2 hardware execution loops.
 
 ---
 *Built for absolute user sovereignty.*
