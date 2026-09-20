@@ -46,10 +46,10 @@ The network maintains infrastructure and node honesty programmatically without c
 ## 📄 Repository Structure
 
 ```text
-├── docs/
-│   └── whitepaper.md       # Full theoretical protocol specification
-├── src/                    # Future Core implementation directory
-└── README.md               # Repository orientation matrix
+├── VNET
+│   |__ whitepaper.txt       # Full theoretical protocol specification.
+|    |__ README.md               # Repository orientation matrix.
+|     |__about.txt           # Ideology and about the product.
 ```
 
 ## 🤝 Peer Review & Contributions
